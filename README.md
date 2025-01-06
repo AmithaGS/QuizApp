@@ -25,6 +25,9 @@ Technologies Used
 ReactJS: Frontend framework for building the user interface.
 State Management: Managed using React's useState and useEffect hooks.
 CSS: For styling the application.
+
+![quizapp](https://github.com/user-attachments/assets/d1fece8b-a555-45ad-9afc-0877a8b44e28)
+
 How to Run the Project
 Clone the repository:
 git clone https://github.com/AmithaGS/QuizApp
